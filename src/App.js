@@ -4,7 +4,7 @@ import { Home } from "./Components/Home";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Program } from "./Components/Program";
 
-function App() {
+export default function App() {
 	return (
 		<Router>
 			<div class="container-fluid">
@@ -25,5 +25,3 @@ function App() {
 		</Router>
 	);
 }
-
-export default App;
