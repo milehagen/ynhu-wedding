@@ -24,13 +24,18 @@ export function Navbar() {
 							</Link>
 						</li>
 						<li class="nav-item">
-							<Link class="nav-link" to="/directions">
-								Directions
+							<Link class="nav-link" to="/seating">
+								Find Your Seat
 							</Link>
 						</li>
 						<li class="nav-item">
 							<Link class="nav-link" to="/program">
 								Program
+							</Link>
+						</li>
+						<li class="nav-item">
+							<Link class="nav-link" to="/directions">
+								Directions
 							</Link>
 						</li>
 						<li class="nav-item">
