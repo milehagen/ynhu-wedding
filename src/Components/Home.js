@@ -9,26 +9,23 @@ export function Home() {
 			<div className="home-div">
 				<div class="container">
 					<div class="row">
-						<div class="col">
-							<p className="home-content">
-								<br />
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-								vel lorem consequat, bibendum ipsum quis, hendrerit lacus. Etiam
-								turpis urna, varius et dignissim eget, feugiat ac magna. Orci
-								varius natoque penatibus et magnis dis parturient montes,
-								nascetur ridiculus mus. Morbi justo nunc, tempus in massa sit
-								amet, eleifend imperdiet nisl. Aenean libero ex, facilisis a
-								ante quis, fermentum sagittis sapien. Ut pretium placerat
-								hendrerit. Ut eu vulputate dolor. Quisque ullamcorper tincidunt
-								nibh, non molestie erat elementum eu. Cras metus metus, interdum
-								quis faucibus maximus, luctus semper metus. Nunc dapibus
-								convallis posuere. Praesent condimentum sem sed porta dapibus.
-								Maecenas consectetur dapibus mauris eget vulputate. Suspendisse
-								felis nulla, molestie in tortor sit amet, porta cursus magna.
-								Nulla tincidunt, eros sit amet tristique vestibulum, arcu lacus
-								tristique leo, ut lacinia erat sem at ipsum. Vestibulum
-								ullamcorper eros eget tortor tincidunt tincidunt. Fusce eu
-								accumsan lacus.
+						<div class="col-all-content">
+							<h2 className="cursive-text">Together with their families</h2>								
+							
+							<p className="nhu-magnus">
+								Y-NHU
+							</p>
+							<p className="cursive-text">
+								and
+							</p>
+							<p className="nhu-magnus">
+								MAGNUS
+							</p>
+							<p className="celebrate">
+								Look forward to celebrating their big day with you
+							</p>
+							<p className="date">
+								JUL | 9TH | 2022
 							</p>
 						</div>
 					</div>
