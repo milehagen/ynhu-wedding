@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export function Seating() {
 	return (
 		<div class="container-xxl">
@@ -11,7 +10,7 @@ export function Seating() {
 						<div class="col-12">
 							<h2 className="find-your-seat-heading">Find Your Seat</h2>
 						</div>
-						<div class="col-4">
+						<div class="col-3">
 							<h5 className="table-number-heading">Table 1</h5>
 							<ul className="guest-names">
 								<li>Alfa</li>
@@ -31,7 +30,7 @@ export function Seating() {
 								<li>omicron</li>
 							</ul>
 						</div>
-						<div class="col-4">
+						<div class="col-3">
 							<h5 className="table-number-heading">Table 2</h5>
 							<ul>
 								<li>Alfa</li>
@@ -51,7 +50,7 @@ export function Seating() {
 								<li>omicron</li>
 							</ul>
 						</div>
-						<div class="col-4">
+						<div class="col-3">
 							<h5 className="table-number-heading">Table 3</h5>
 							<ul>
 								<li>Alfa</li>

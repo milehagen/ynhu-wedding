@@ -8,10 +8,10 @@ import { Seating } from "./Components/Seating";
 export default function App() {
 	return (
 		<div class="container-fluid">
-		<Router>
-			<div class="container-lg">
-				<div className="App">
-					<Navbar />
+			<Router>
+				<div class="container-lg">
+					<div className="App">
+						<Navbar />
 						<Switch>
 							<Route path="/home">
 								<Home />
@@ -23,9 +23,9 @@ export default function App() {
 								<Seating />
 							</Route>
 						</Switch>
+					</div>
 				</div>
-			</div>
-		</Router>
+			</Router>
 		</div>
 	);
 }
