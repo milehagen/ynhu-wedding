@@ -1,22 +1,16 @@
 import React from "react";
 import "./Home.css";
 
-const homePic = new URL("../images/homeNote.png", import.meta.url);
-
 export function Home() {
 	return (
+		<div class="background-image">
 		<div class="container-xl">
 			<br />
 			<div className="home-div">
-				<h1>
-					Y-Nhu & Magnus' <br />
-					Wedding
-				</h1>
 				<div class="container">
 					<div class="row">
 						<div class="col">
-							<p>
-								<img src={homePic} className="home-note-pic" />
+							<p className="home-content">
 								<br />
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
 								vel lorem consequat, bibendum ipsum quis, hendrerit lacus. Etiam
@@ -40,6 +34,7 @@ export function Home() {
 					</div>
 				</div>
 			</div>
+		</div>
 		</div>
 	);
 }

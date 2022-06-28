@@ -1,7 +1,5 @@
 import React from "react";
-import "./Seating.css";
 
-const seating = new URL("../images/seatingPic.png", import.meta.url);
 
 export function Seating() {
 	return (

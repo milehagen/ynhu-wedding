@@ -2,7 +2,18 @@ h1 {
     color: white;
 }
 
-.home-note-pic {
-    width: 70%;
-    align-self: center;
+.background-image{
+    background-image: url(./../images/bacgroundPic.png);
+    height: 600px;
+}
+
+.home-content{
+    margin-top: 30em;
+}
+
+@media (max-width: 400px) {
+    .background-image{
+        width: 20em;
+        height: 15em;
+    }
 }
