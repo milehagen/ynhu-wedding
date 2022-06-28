@@ -1,19 +1,74 @@
-ul{
- margin-block-start: none;
+ul {
+    list-style: none;
+    margin-bottom: 2em;
 }
-li {
+
+li,
+.guest-names {
     list-style: none;
     text-align: center;
 }
-.find-your-seat-heading{
+
+.col-4 {
+    display: block;
+}
+
+.find-your-seat-heading {
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
-    font-family: 'Parisienne', cursive;
+    font-family: "Pinyon Script", cursive;
     font-size: 3.5em;
 }
 
-.table-number-heading{
+.table-number-heading {
     text-align: center;
 }
 
+
+.background {
+    background-image: url(./../images/bacgroundPic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.col-12 {
+    margin-top: 20em;
+    display: block;
+}
+
+@media (min-width:290px) {
+    .col-12 {
+        margin-top: 5em;
+    }
+}
+
+@media (min-width:460px) {
+    .col-12 {
+        margin-top: 8em;
+    }
+}
+
+@media (min-width:540px) {
+    .col-12 {
+        margin-top: 10em;
+    }
+}
+
+@media (min-width:640px) {
+    .col-12 {
+        margin-top: 15em;
+    }
+}
+
+@media (min-width:840px) {
+    .col-12 {
+        margin-top: 15em;
+    }
+}
+
+@media (min-width:1100px) {
+    .col-12 {
+        margin-top: 20em;
+    }
+}

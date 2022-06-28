@@ -33,6 +33,7 @@
   font-size: 2em;
   font-family: "Times New Roman", Times, serif;
 }
+
 .background-image {
   background-image: url(./../images/bacgroundPic.png);
   background-size: 100%;
@@ -48,6 +49,7 @@
     background-size: 100%;
     background-repeat: no-repeat;
   }
+
   .col-all-content {
     margin-top: 18em;
   }
@@ -55,6 +57,7 @@
   .cursive-text {
     font-size: 2em;
   }
+
   .celebrate {
     font-size: 2em;
   }
@@ -72,6 +75,7 @@
     background-size: 100%;
     background-repeat: no-repeat;
   }
+
   .col-all-content {
     margin-top: 8em;
   }
@@ -79,12 +83,15 @@
   .cursive-text {
     font-size: 2em;
   }
+
   .celebrate {
     font-size: 1em;
   }
+
   .nhu-magnus {
     font-size: 2em;
   }
+
   .date {
     margin-top: 1em;
     font-size: 1em;
