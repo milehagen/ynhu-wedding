@@ -1,3 +1,11 @@
 .ceremony {
     text-align: center;
 }
+
+.background {
+    background-image: url(./../images/bacgroundPic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 20em;
+    width: 40em;
+}
