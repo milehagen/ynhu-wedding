@@ -7,11 +7,11 @@ import { Seating } from "./Components/Seating";
 
 export default function App() {
 	return (
+		<div class="container-fluid">
 		<Router>
 			<div class="container-fluid">
 				<div className="App">
 					<Navbar />
-					<div className="all-content">
 						<Switch>
 							<Route path="/home">
 								<Home />
@@ -23,9 +23,9 @@ export default function App() {
 								<Seating />
 							</Route>
 						</Switch>
-					</div>
 				</div>
 			</div>
 		</Router>
+		</div>
 	);
 }
