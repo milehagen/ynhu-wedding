@@ -15,9 +15,63 @@ export function Seating() {
 						</div>
 						<div class="col-4">
 							<h5 className="table-number-heading">Table 1</h5>
-							<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod tristique dolor. Proin fermentum, nisl non mattis fringilla, nibh mi mattis metus, gravida molestie justo quam eget tellus. Maecenas consequat efficitur diam. Sed vitae sem in tellus viverra rutrum non id dolor. Nam luctus, metus vulputate lobortis laoreet, felis nibh tempor tortor, eget eleifend turpis lacus ut urna. Phasellus iaculis, purus non dignissim aliquet, orci risus elementum sem, vitae sollicitudin est metus et tortor. Maecenas lobortis dolor egestas, pretium purus in, molestie diam. Sed blandit dui orci, ut interdum leo suscipit vel. Aenean ac pulvinar eros. Phasellus id leo sit amet metus accumsan aliquam. Pellentesque convallis vel lectus vel sodales. Nam pellentesque eros at consequat placerat.
-							</p>
+							<ul className="guest-names">
+								<li>Alfa</li>
+								<li>beta</li>
+								<li>gamma</li>
+								<li>delta</li>
+								<li>epsilon</li>
+								<li>zeta</li>
+								<li>eta</li>
+								<li>theta</li>
+								<li>iota</li>
+								<li>kappa</li>
+								<li>lambda</li>
+								<li>mu</li>
+								<li>nu1</li>
+								<li>xi</li>
+								<li>omicron</li>
+							</ul>
+						</div>
+						<div class="col-4">
+							<h5 className="table-number-heading">Table 2</h5>
+							<ul>
+								<li>Alfa</li>
+								<li>beta</li>
+								<li>gamma</li>
+								<li>delta</li>
+								<li>epsilon</li>
+								<li>zeta</li>
+								<li>eta</li>
+								<li>theta</li>
+								<li>iota</li>
+								<li>kappa</li>
+								<li>lambda</li>
+								<li>mu</li>
+								<li>nu1</li>
+								<li>xi</li>
+								<li>omicron</li>
+							</ul>
+						</div>
+						<div class="col-4">
+							<h5 className="table-number-heading">Table 3</h5>
+							<ul>
+								<li>Alfa</li>
+								<li>beta</li>
+								<li>gamma</li>
+								<li>delta</li>
+								<li>epsilon</li>
+								<li>zeta</li>
+								<li>eta</li>
+								<li>theta</li>
+								<li>iota</li>
+								<li>kappa</li>
+								<li>lambda</li>
+								<li>mu</li>
+								<li>nu1</li>
+								<li>xi</li>
+								<li>omicron</li>
+							</ul>
 						</div>
 					</div>
 				</div>

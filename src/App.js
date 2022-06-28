@@ -9,7 +9,7 @@ export default function App() {
 	return (
 		<div class="container-fluid">
 		<Router>
-			<div class="container-fluid">
+			<div class="container-lg">
 				<div className="App">
 					<Navbar />
 						<Switch>

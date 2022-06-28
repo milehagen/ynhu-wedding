@@ -1,8 +1,19 @@
-
+ul{
+ margin-block-start: none;
+}
+li {
+    list-style: none;
+    text-align: center;
+}
 .find-your-seat-heading{
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: 'Parisienne', cursive;
+    font-size: 3.5em;
 }
 
 .table-number-heading{
     text-align: center;
 }
+
