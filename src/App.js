@@ -9,7 +9,6 @@ export default function App() {
   return (
     <div class="container-fluid">
       <Router>
-        <Route path="/home"></Route>
         <div class="container-lg">
           <div className="App">
             <Navbar />

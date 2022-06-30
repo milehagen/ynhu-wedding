@@ -31,8 +31,19 @@ export function Program() {
                   This is happening before & right after the ceremony
                 </strong>{" "}
                 <br />
-                The ceremony will take place at the beach. Before heading to the
-                beach, you can drop off items you don't want to hold onto at
+                <p>
+                  As the ceremony will take place at the beach, we advise you to
+                  drop off items at Villa Malla; such as clothes, presents, or
+                  any item you don't want to hold onto. Vu, Y-Nhu's brother, as
+                  well as a representative from Villa Malla will be there to
+                  receive your items.
+                </p>
+                <p>
+                  As there are limited seats, these will be assigned to the
+                  elderly guests. This means that most guests will be standing.
+                  To ensure that everyone can see the ceremony, Kjell Morten,
+                  the marriage officiant, will show you where to stand.
+                </p>
               </div>
             </div>
           </div>
