@@ -1,99 +1,37 @@
-.together {
-  font-family: "Pinyon Script", cursive;
-  font-size: 3.5em;
+img {
+  display: block;
+  margin: 0 auto;
 }
 
-.together,
-.nhu-magnus,
-.cursive-text,
-.celebrate,
-.date {
-  text-align: center;
-  color: #310663;
-  margin-bottom: 0;
+.wedding-card {
+  width: 40em;
+  margin-top: 4em;
 }
 
-.nhu-magnus {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 4em;
-}
-
-.cursive-text {
-  font-family: "Pinyon Script", cursive;
-  font-size: 3.5em;
-}
-
-.celebrate {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 2em;
-}
-
-.date {
-  margin-top: 2em;
-  font-size: 2em;
-  font-family: "Times New Roman", Times, serif;
-}
-
-.background-image {
-  background-image: url(./../images/bacgroundPic.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
-
-.col-all-content {
-  margin-top: 25em;
-}
-
-@media (max-width: 900px) {
-  .background-image {
-    background-size: 100%;
-    background-repeat: no-repeat;
-  }
-
-  .col-all-content {
-    margin-top: 18em;
-  }
-
-  .cursive-text {
-    font-size: 2em;
-  }
-
-  .celebrate {
-    font-size: 2em;
+@media (min-width: 420px) {
+  .wedding-card {
+    width: 22em;
+    margin-top: 2em;
   }
 }
 
-@media (max-width: 850px) {
-  .background-image {
-    background-size: 100%;
-    background-repeat: no-repeat;
+@media (min-width: 500px) {
+  .wedding-card {
+    width: 30em;
+    margin-top: 2em;
   }
 }
 
-@media (max-width: 420px) {
-  .background-image {
-    background-size: 100%;
-    background-repeat: no-repeat;
+@media (min-width: 600px) {
+  .wedding-card {
+    width: 40em;
+    margin-top: 2em;
   }
+}
 
-  .col-all-content {
-    margin-top: 8em;
-  }
-
-  .cursive-text {
-    font-size: 2em;
-  }
-
-  .celebrate {
-    font-size: 1em;
-  }
-
-  .nhu-magnus {
-    font-size: 2em;
-  }
-
-  .date {
-    margin-top: 1em;
-    font-size: 1em;
+@media (min-width: 700px) {
+  .wedding-card {
+    width: 45em;
+    margin-top: 2em;
   }
 }
