@@ -9,7 +9,11 @@ export function Seating() {
         <div class="row">
           <div class="col-12">
             <div className="heading-background-color">
-              <img src={seatheading} />
+              <img
+                src={seatheading}
+                className="seat-heading-pic"
+                alt="seating-heading"
+              />
             </div>
           </div>
           <div className="container-flex">
