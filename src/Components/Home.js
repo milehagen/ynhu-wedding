@@ -4,7 +4,7 @@ import img from "./../images/home-card.png";
 
 export function Home() {
   return (
-    <div class="container-fluid">
+    <div class="container-fluid-home">
       <div className="info-card-div">
         <img src={img} alt="card" className="wedding-card" />
       </div>

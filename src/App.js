@@ -4,12 +4,13 @@ import { Home } from "./Components/Home";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Program } from "./Components/Program";
 import { Seating } from "./Components/Seating";
+import { Directions } from "./Components/Directions";
 
 export default function App() {
   return (
     <div class="container-fluid">
       <Router>
-        <div class="container-lg">
+        <div class="container-xxl">
           <div className="App">
             <Navbar />
             <Switch>
@@ -21,6 +22,9 @@ export default function App() {
               </Route>
               <Route path="/seating">
                 <Seating />
+              </Route>
+              <Route path="/directions">
+                <Directions />
               </Route>
             </Switch>
           </div>
