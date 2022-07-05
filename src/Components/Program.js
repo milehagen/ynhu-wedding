@@ -78,13 +78,46 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseThree"
 					>
-						<b>General information</b>
+						<b>
+							About the Vietnamese wedding tradition "chúc rượu" (sounds like :
+							"chook ree-oh")
+						</b>
 					</button>
 				</h2>
 				<div
 					id="collapseThree"
 					class="accordion-collapse collapse"
 					aria-labelledby="headingThree"
+					data-bs-parent="#accordionExample"
+				>
+					<div class="accordion-body">
+						<p>
+							Just like the wedding cake cutting ceremony, pouring wine together
+							is a meaningful blessing for the bride and groom. And, in
+							Vietnamese wedding parties, the newslyweds will often stop by each
+							guest-table, to receive well wishes from the wedding guests.
+						</p>
+						<p>This is an opportunity for guests to express</p>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="headingFour">
+					<button
+						class="accordion-button collapsed"
+						type="button"
+						data-bs-toggle="collapse"
+						data-bs-target="#collapseFour"
+						aria-expanded="false"
+						aria-controls="collapseFour"
+					>
+						<b>General information</b>
+					</button>
+				</h2>
+				<div
+					id="collapseFour"
+					class="accordion-collapse collapse"
+					aria-labelledby="headingFour"
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
