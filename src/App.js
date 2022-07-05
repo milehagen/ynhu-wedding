@@ -13,29 +13,27 @@ import { Directions } from "./Components/Directions";
 
 export default function App() {
 	return (
-		<div class="container-fluid">
-			<Router>
-				<div class="container-xxl">
-					<div className="App">
-						<Navbar />
-						<Switch>
-							<Route path="/home">
-								<Home />
-							</Route>
-							<Route path="/program">
-								<Program />
-							</Route>
-							<Route path="/seating">
-								<Seating />
-							</Route>
-							<Route path="/directions">
-								<Directions />
-							</Route>
-							<Redirect from="*" to="/home" />
-						</Switch>
-					</div>
+		<Router>
+			<div class="container-xxl">
+				<div className="App">
+					<Navbar />
+					<Switch>
+						<Route path="/home">
+							<Home />
+						</Route>
+						<Route path="/program">
+							<Program />
+						</Route>
+						<Route path="/seating">
+							<Seating />
+						</Route>
+						<Route path="/directions">
+							<Directions />
+						</Route>
+						<Redirect from="*" to="/home" />
+					</Switch>
 				</div>
-			</Router>
-		</div>
+			</div>
+		</Router>
 	);
 }

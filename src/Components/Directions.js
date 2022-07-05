@@ -1,17 +1,60 @@
 import React from "react";
 
 export function Directions() {
-  return (
-    <div class="container-directions">
-      <h2>HEllo world</h2>
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2020.7150801744099!2d10.614968316017018!3d59.57115369865162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46414f14dfe8efdd%3A0xeaebb6b5f371e00f!2sVilla%20Malla!5e0!3m2!1sen!2sno!4v1656670870429!5m2!1sen!2sno"
-        width="600"
-        height="450"
-        allowfullscreen=""
-        alt-text="google-map"
-        title="villa-malla-map"
-      ></iframe>
-    </div>
-  );
+	return (
+		<div className="all-content-directions">
+			<div class="container">
+				<div class="content">
+					<div class="row">
+						<div class="col text">
+							<div className="p-content">
+								<p className="p-content">
+									Parkering på Villa Malla Det er en stor parkeringsplass til
+									venstre for butikken Joker i Filtvet sentrum som kan benyttes.
+									Det finnes også en kommunal parkeringsplass på helsetunet før
+									du svinger ned til Villa Malla, i tillegg er det flere
+									parkeringsplasser på Filtvets gamle dampskipsbrygge som ligger
+									ca 100 meter forbi nedkjørsel til Villa Malla. PS: ikke parker
+									bilen i selve Nordstrandsveien, dette kan resultere med bot.
+								</p>
+								<p>
+									Veibeskrivelse fra Oslo/Asker Ta av fra E18 ved Asker. Kjør
+									mot Heggedal, og følg skiltene mot Røyken. Følg deretter E134
+									mot Drøbak. Etter å ha kjørt gjennom 1 lang og 2 korte
+									tunneler, så kommer man til en rundkjøring hvor man kan se
+									innslaget til Oslofjordtunnelen. Sving til høyre i denne
+									rundkjøringen, og følg riksvei 281 i retning Storsand og
+									Filtvet. Herfra tar det cirka 10-15 minutter å kjøre til
+									Filtvet langs Oslofjorden. Ved skiltet Filtvet er det cirka
+									200 meter igjen. Følg skiltene til Filtvet brygge, og du
+									finner oss nede i svingen, rett ved Filtvet fyr.
+								</p>
+								<p>
+									Fra Sørlandet og Drammen Følg E18 til Drammen. Ta deretter
+									E134 mot Drøbak. Etter å ha kjørt gjennom 1 lang og 2 korte
+									tunneler, så kommer man til en rundkjøring hvor man kan se
+									innslaget til Oslofjordtunnelen. Sving til høyre i denne
+									rundkjøringen, og følg riksvei 281 i retning Storsand og
+									Filtvet. Herfra tar det cirka 10-15 minutter å kjøre til
+									Filtvet langs Oslofjorden. Ved skiltet Filtvet er det cirka
+									200 meter igjen. Følg skiltene til Filtvet brygge, og du
+									finner oss nede i svingen, rett ved Filtvet fyr.
+								</p>
+							</div>
+						</div>
+						<div class="col">
+							<iframe
+								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2020.7150801744099!2d10.614968316017018!3d59.57115369865162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46414f14dfe8efdd%3A0xeaebb6b5f371e00f!2sVilla%20Malla!5e0!3m2!1sen!2sno!4v1656670870429!5m2!1sen!2sno"
+								width="600"
+								height="450"
+								allowfullscreen=""
+								alt-text="google-map"
+								title="villa-malla-map"
+							></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	);
 }
