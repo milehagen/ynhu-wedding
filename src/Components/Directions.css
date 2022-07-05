@@ -4,28 +4,15 @@ iframe {
   display: block;
 }
 
-p {
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  background-color: white;
-
+h2 {
+  text-align: center;
 }
 
-.container {
-  background-color: aliceblue;
+a {
+  text-decoration: none !important;
 }
 
-.all-content-directions {
-  display: block;
-  margin: 0 auto;
-  padding: 3em;
-  margin-top: 1em;
+.directions {
+  margin-top: 10em;
   background-color: antiquewhite;
-}
-
-
-
-.col {
-  padding-top: 3em;
 }

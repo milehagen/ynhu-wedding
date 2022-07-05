@@ -1,14 +1,22 @@
 import React from "react";
+import ruter from "./../images/rutetider.jpeg";
 
 export function Directions() {
 	return (
-		<div className="all-content-directions">
+		<div className="directions">
+			<br />
+			<br />
+			<br />
+
 			<div class="container">
+				<h2>
+					Kontakt Villa Malla <a href="https://villamalla.no/kontakt"> her</a>{" "}
+				</h2>
 				<div class="content">
 					<div class="row">
 						<div class="col text">
 							<div className="p-content">
-								<p className="p-content">
+								<p>
 									Parkering på Villa Malla Det er en stor parkeringsplass til
 									venstre for butikken Joker i Filtvet sentrum som kan benyttes.
 									Det finnes også en kommunal parkeringsplass på helsetunet før
@@ -52,6 +60,23 @@ export function Directions() {
 								title="villa-malla-map"
 							></iframe>
 						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<p>
+							Fra Drøbak og Østfold Kjør gjennom Oslofjordtunnelen, og ta til
+							venstre i første rundkjøring etter tunnelen. Følg deretter riksvei
+							281 i retning Storsand og Filtvet. Fra rundkjøringen tar det cirka
+							10-15 minutter å kjøre til Filtvet langs Oslofjorden. Ved skiltet
+							Filtvet er det cirka 200 meter igjen. Følg skiltene til Filtvet
+							brygge, og du finner oss nede i svingen, rett ved Filtvet fyr. Ta
+							båten til Villa Malla i sommer! Ta kontakt med Ruter for
+							ruteopplysninger: ruter.no eller ring 177.
+						</p>
+					</div>
+					<div class="col">
+						<img src={ruter} alt="rutetider" className="ruter-reisetider" />
 					</div>
 				</div>
 			</div>
