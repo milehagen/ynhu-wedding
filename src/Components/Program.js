@@ -97,7 +97,7 @@ export function Program() {
 							Vietnamese wedding parties, the newslyweds will often stop by each
 							guest-table, to receive well wishes from the wedding guests.
 						</p>
-						<p>This is an opportunity for guests to express</p>
+						<p>Traditionally, the "chúc rượu" </p>
 					</div>
 				</div>
 			</div>
