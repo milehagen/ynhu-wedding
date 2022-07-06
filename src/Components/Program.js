@@ -13,7 +13,7 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseOne"
 					>
-						<b className="ceremony">Before the ceremony | Trước buổi lễ</b>
+						<b className="ceremony">Before the ceremony | Trước buổi lễ cưới</b>
 					</button>
 				</h2>
 				<div
