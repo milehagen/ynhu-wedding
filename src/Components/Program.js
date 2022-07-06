@@ -93,25 +93,27 @@ export function Program() {
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
-						<strong>Group picture | Hình ảnh nhóm</strong> <br />
+						<strong>Group picture</strong> <br />
 						<p>
 							After the wedding ceremony, the photographer will take a group
 							picture. So, please stay at the beach, as the photographer will
 							take the picture from the pier.
 						</p>
+						<strong>Hình ảnh nhóm</strong> <br />
 						<p>
 							Sau lễ cưới, nhiếp ảnh gia sẽ chụp một bức ảnh nhóm. Vì vậy, xin
 							vui lòng ở lại bãi biển. Nhiếp ảnh gia sẽ chụp hình ảnh từ bến
 							tàu.
 						</p>
 						<h6>
-							<strong>After the Group Picture | Sau hình ảnh nhóm </strong>
+							<strong>After the Group Picture</strong>
 						</h6>
 						<p>
 							Representatives from Villa Malla will guide all guests to the
 							south side of the Villa. Here, you can mingle, grab a drink, and
 							take some pictures by the "selfie-station" that is set up.
 						</p>
+						<strong>Sau hình ảnh nhóm </strong>
 						<p>
 							Đại diện từ Villa Malla sẽ hướng dẫn tất cả các khách đến phía nam
 							của Villa Malla. Tại đây, quý khách có thể hòa nhập, giải khát, và
