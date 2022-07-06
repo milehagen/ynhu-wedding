@@ -30,7 +30,7 @@ export function Navbar() {
 						</li>
 						<li class="nav-item">
 							<Link class="nav-link" to="/program">
-								Program
+								Programme
 							</Link>
 						</li>
 						<li class="nav-item">
