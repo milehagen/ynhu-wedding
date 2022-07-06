@@ -1,24 +1,32 @@
-.background-rustic {
-  background-image: url(./../images/rustic.png);
-}
-
-
-.wedding-card {
-  width: 20em;
-  padding-top: 3em;
-  display: block;
-  margin: 0 auto;
-  border-radius: 15em;
-}
-
-@media (min-width: 420px) {
-  .wedding-card {
-    width: 22em;
+  .background-rustic {
+    background-image: url(./../images/rustic.png);
   }
-}
 
-@media (min-width: 500px) {
+
   .wedding-card {
-    width: 30em;
+    width: 20em;
+    padding-top: 3em;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15em;
+    padding-bottom: 15em;
   }
-}
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+
+  @media (min-width: 400px) {
+    .wedding-card {
+      width: 22em;
+    }
+
+  }
+
+  @media (min-width: 500px) {
+    .wedding-card {
+      width: 30em;
+    }
+  }

@@ -29,6 +29,7 @@ export default function App() {
 					<Route path="/directions">
 						<Directions />
 					</Route>
+
 					<Redirect from="*" to="/home" />
 				</Switch>
 			</div>
