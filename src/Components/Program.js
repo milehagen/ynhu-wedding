@@ -41,7 +41,9 @@ export function Program() {
 							tại Villa Malla; như quần áo, quà, hoặc bất cứ cái gì bạn không
 							muốn cầm trong tay.
 						</p>
-						<p>Đại diện từ Villa Malla sẽ có mặt để nhận đồ đạc của bạn.</p>
+						<p>
+							Đại diện từ Villa Malla sẽ có mặt để nhận đồ đạc của quý khách.
+						</p>
 						<h6 style={{ fontWeight: "bold" }}>Important</h6>
 						<p>
 							If your wedding gift is in an envelope, we kindly ask you to hold
