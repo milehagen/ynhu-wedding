@@ -10,20 +10,21 @@ export function Directions() {
 
 			<div class="container">
 				<h2>NB!</h2>
-				<p>
+				<p className="red">
 					We have been informed by a few wedding guests that the information on
 					Google maps is
 					<strong> not </strong> updated, as it says that the "Filtvet" pier is
 					closed. This is incorrect.
 				</p>
-				<p>
+				<p className="red">
 					The <strong>boat departs from Aker brygge at 15:00 </strong>as normal.
 					And, a bus is arranged to depart at Villa Malla at{" "}
 					<strong>exactly 02:00 AM</strong>, and will arrive Oslo central
 					station at aproximately 02:40AM.
 				</p>
 				<h2>
-					Kontakt Villa Malla <a href="https://villamalla.no/kontakt"> her</a>{" "}
+					Ved spørsmål kan Villa Malla kontaktes{" "}
+					<a href="https://villamalla.no/kontakt"> her</a>{" "}
 				</h2>
 				<div class="content">
 					<div class="row">

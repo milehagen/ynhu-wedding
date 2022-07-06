@@ -14,5 +14,16 @@ a {
 
 .directions {
   margin-top: 10em;
-  background-color: antiquewhite;
+}
+
+@media (max-width:685px) {
+  .container {
+    min-width: 2000em;
+  }
+}
+
+@media (min-width:300px) {
+  .container {
+    min-width: 5000em;
+  }
 }
