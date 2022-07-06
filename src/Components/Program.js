@@ -13,7 +13,7 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseOne"
 					>
-						<b className="ceremony">Before the ceremony</b>
+						<b className="ceremony">Before the ceremony | Trước buổi lễ</b>
 					</button>
 				</h2>
 				<div
@@ -27,16 +27,46 @@ export function Program() {
 						<p>
 							As the ceremony will take place at the beach, we advise you to
 							drop off items at Villa Malla; such as clothes, presents, or any
-							item you don't want to hold onto. Vu, Y-Nhu's brother, as well as
-							a representative from Villa Malla will be there to receive your
+							item you don't want to hold onto.
+						</p>
+						<p>
+							Representatives from Villa Malla will be there to receive your
 							items.
 						</p>
+						<strong className="vn">
+							Gửi đồ đạc của quý khách tại Villa Malla
+						</strong>
+						<p className="vn">
+							Vì buổi lễ sẽ cử hành ở bãi biển, chúng tôi khuyên khách để đồ lại
+							tại Villa Malla; như quần áo, quà, hoặc bất cứ cái gì bạn không
+							muốn cầm trong tay.
+						</p>
+						<p>Đại diện từ Villa Malla sẽ có mặt để nhận đồ đạc của bạn.</p>
+						<h6 style={{ fontWeight: "bold" }}>Important</h6>
+						<p>
+							If your wedding gift is in an envelope, we kindly ask you to hold
+							onto this, as envelopes are traditionally collected when the
+							wedding couple stops by each guest-table to "chúc rượu".
+						</p>
+						<h6 style={{ fontWeight: "bold" }}>Thông Tin Quan Trọng</h6>
+						<p>
+							Nếu quà của bạn được đựng trong phong bì, xin vui lòng giữ lại
+							phong bì. Quý khách có thể giao phong bì trong buổi chúc rượu.
+						</p>
+						<h6 style={{ fontWeight: "bold" }}>Seats for elderly</h6>
 						<p>
 							There are limited seats, and these are therefore assigned to the
 							elderly guests, which means that most guests will be standing. To
 							ensure that everyone can see the ceremony, Kjell Morten, the
 							marriage officiant, will show you where to stand. He will attempt
 							to form a half-circle around the wedding couple ;-)
+						</p>
+						<h6 style={{ fontWeight: "bold" }}>
+							Ghế để dành cho quý khách lớn tuổi
+						</h6>
+						<p>
+							Buổi lễ sẽ có ít chỗ ngồi, vì vậy, xin vui lòng để dành ghế cho
+							quý khách lớn tuổi.
 						</p>
 					</div>
 				</div>
@@ -51,7 +81,7 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseTwo"
 					>
-						<b>After the wedding ceremony</b>
+						<b>After the wedding ceremony | Sau lễ cưới</b>
 					</button>
 				</h2>
 				<div
@@ -61,10 +91,30 @@ export function Program() {
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
-						<strong>Group picture</strong> <br />
-						After the wedding ceremony, we want all guests to walk towards the
-						pier, so that we can take a group picture. When the group picture
-						has been taken, a representative from Villa Malla
+						<strong>Group picture | Hình ảnh nhóm</strong> <br />
+						<p>
+							After the wedding ceremony, the photographer will take a group
+							picture. So, please stay at the beach, as the photographer will
+							take the picture from the pier.
+						</p>
+						<p>
+							Sau lễ cưới, nhiếp ảnh gia sẽ chụp một bức ảnh nhóm. Vì vậy, xin
+							vui lòng ở lại bãi biển. Nhiếp ảnh gia sẽ chụp hình ảnh từ bến
+							tàu.
+						</p>
+						<h6>
+							<strong>After the Group Picture | Sau hình ảnh nhóm </strong>
+						</h6>
+						<p>
+							Representatives from Villa Malla will guide all guests to the
+							south side of the Villa. Here, you can mingle, grab a drink, and
+							take some pictures by the "selfie-station" that is set up.
+						</p>
+						<p>
+							Đại diện từ Villa Malla sẽ hướng dẫn tất cả các khách đến phía nam
+							của Villa Malla. Tại đây, quý khách có thể hòa nhập, giải khát, và
+							chụp ảnh bằng máy ảnh được đặt sẵn ở ban công Villa Malla.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -91,13 +141,29 @@ export function Program() {
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
+						<h6 style={{ fontWeight: "bold" }}>About "chúc rượu"</h6>
+
 						<p>
 							Just like the wedding cake cutting ceremony, pouring wine together
-							is a meaningful blessing for the bride and groom. And, in
-							Vietnamese wedding parties, the newslyweds will often stop by each
-							guest-table, to receive well wishes from the wedding guests.
+							(or other alcoholic beverages) is a meaningful blessing for the
+							bride and groom. And, in Vietnamese wedding parties, the
+							newslyweds, together with their parents, will stop by each
+							guest-table to thank the guests for celebrating their day with
+							them, and to receive well wishes from the wedding guests.
 						</p>
-						<p>Traditionally, the "chúc rượu" </p>
+						<h6 style={{ fontWeight: "bold" }}>How Does it All Work?</h6>
+						<p>
+							Choose one person from your table to speak on behalf of all of
+							you. You can give marriage advice to the newslyweds, give them a
+							fun challenge, or simply say a few words to congratulate the
+							couple on their wedding day.
+						</p>
+						<p>
+							The wedding couple will have a tray of shot glasses filled with
+							either a bubbly alcoholic beverage, or apple juice. Everyone will
+							receive a shot glass, so you can join in on the fun when glasses
+							are raised during a toast.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -111,7 +177,7 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseFour"
 					>
-						<b>General information</b>
+						<b>Good to Know | Điều cần biết</b>
 					</button>
 				</h2>
 				<div
@@ -121,14 +187,18 @@ export function Program() {
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
-						<strong>This is the third item's accordion body.</strong> It is
-						hidden by default, until the collapse plugin adds the appropriate
-						classes that we use to style each element. These classes control the
-						overall appearance, as well as the showing and hiding via CSS
-						transitions. You can modify any of this with custom CSS or
-						overriding our default variables. It's also worth noting that just
-						about any HTML can go within the <code>.accordion-body</code>,
-						though the transition does limit overflow.
+						<p>
+							{" "}
+							The wedding-cake-cutting ceremony will take place outside at Villa
+							Malla's balcony. And, as we don't want you to get sick, we advise
+							you to bring a light jacket, or a sweater to keep you warm.
+						</p>
+						<p>
+							{" "}
+							Nghi lễ cắt bánh cưới sẽ diễn ra ở ngoài tại ban công của Villa
+							Malla. Chúng tôi không muốn quý khách bị bệnh, vì vậy chúng tôi
+							khuyên bạn mang theo áo khoác nhẹ, hoặc áo len để giữ ấm.
+						</p>
 					</div>
 				</div>
 			</div>

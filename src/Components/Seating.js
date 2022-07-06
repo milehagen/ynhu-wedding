@@ -296,9 +296,9 @@ export function Seating() {
 						<div class="col-4 beige">
 							<h5 className="table-number-heading">Table 21</h5>
 							<ul>
-								<li>Abel </li>
-								<li> Agustin </li>
-								<li>Tilde Ada-Marie </li>
+								<li>Abel Agustin</li>
+								<li>Tilde</li>
+								<li>Ada-Marie </li>
 							</ul>
 						</div>
 						<div class="col-4 light-beige">
