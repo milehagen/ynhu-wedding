@@ -109,7 +109,6 @@ export function Seating() {
 								<li>Thieu-Nam</li>
 								<li>Blake </li>
 								<li>Yvonne</li>
-								<li>Therese Hansen</li>
 								<li>Linn-Elise </li>
 								<li>Magne</li>
 								<li> Anh Vũ</li>
@@ -282,6 +281,7 @@ export function Seating() {
 								<li>Aaron</li>
 								<li>Emilyn</li>
 								<li>Alina May </li>
+								<li>Nora (DK)</li>
 							</ul>
 						</div>
 						<div class="col-4 light-beige">
@@ -297,6 +297,7 @@ export function Seating() {
 							<h5 className="table-number-heading">Table 21</h5>
 							<ul>
 								<li>Abel Agustin</li>
+								<li>Olivia Marie</li>
 								<li>Tilde</li>
 								<li>Ada-Marie </li>
 							</ul>
@@ -307,6 +308,7 @@ export function Seating() {
 								<li>Edith </li>
 								<li>Abel Johannes</li>
 								<li>Konrad</li>
+								<li>Erik Andreas</li>
 							</ul>
 						</div>
 					</div>
