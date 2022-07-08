@@ -44,27 +44,33 @@ export function Directions() {
 									</div>
 								</p>
 								<p>
-									Veibeskrivelse fra Oslo/Asker Ta av fra E18 ved Asker. Kjør
-									mot Heggedal, og følg skiltene mot Røyken. Følg deretter E134
-									mot Drøbak. Etter å ha kjørt gjennom 1 lang og 2 korte
-									tunneler, så kommer man til en rundkjøring hvor man kan se
-									innslaget til Oslofjordtunnelen. Sving til høyre i denne
-									rundkjøringen, og følg riksvei 281 i retning Storsand og
-									Filtvet. Herfra tar det cirka 10-15 minutter å kjøre til
-									Filtvet langs Oslofjorden. Ved skiltet Filtvet er det cirka
-									200 meter igjen. Følg skiltene til Filtvet brygge, og du
-									finner oss nede i svingen, rett ved Filtvet fyr.
+									<strong>Veibeskrivelse fra Oslo/Asker </strong>
+									<div>
+										Ta av fra E18 ved Asker. Kjør mot Heggedal, og følg skiltene
+										mot Røyken. Følg deretter E134 mot Drøbak. Etter å ha kjørt
+										gjennom 1 lang og 2 korte tunneler, så kommer man til en
+										rundkjøring hvor man kan se innslaget til Oslofjordtunnelen.
+										Sving til høyre i denne rundkjøringen, og følg riksvei 281 i
+										retning Storsand og Filtvet. Herfra tar det cirka 10-15
+										minutter å kjøre til Filtvet langs Oslofjorden. Ved skiltet
+										Filtvet er det cirka 200 meter igjen. Følg skiltene til
+										Filtvet brygge, og du finner oss nede i svingen, rett ved
+										Filtvet fyr.
+									</div>
 								</p>
 								<p>
-									Fra Sørlandet og Drammen Følg E18 til Drammen. Ta deretter
-									E134 mot Drøbak. Etter å ha kjørt gjennom 1 lang og 2 korte
-									tunneler, så kommer man til en rundkjøring hvor man kan se
-									innslaget til Oslofjordtunnelen. Sving til høyre i denne
-									rundkjøringen, og følg riksvei 281 i retning Storsand og
-									Filtvet. Herfra tar det cirka 10-15 minutter å kjøre til
-									Filtvet langs Oslofjorden. Ved skiltet Filtvet er det cirka
-									200 meter igjen. Følg skiltene til Filtvet brygge, og du
-									finner oss nede i svingen, rett ved Filtvet fyr.
+									<strong>Fra Sørlandet og Drammen</strong>{" "}
+									<div>
+										Følg E18 til Drammen. Ta deretter E134 mot Drøbak. Etter å
+										ha kjørt gjennom 1 lang og 2 korte tunneler, så kommer man
+										til en rundkjøring hvor man kan se innslaget til
+										Oslofjordtunnelen. Sving til høyre i denne rundkjøringen, og
+										følg riksvei 281 i retning Storsand og Filtvet. Herfra tar
+										det cirka 10-15 minutter å kjøre til Filtvet langs
+										Oslofjorden. Ved skiltet Filtvet er det cirka 200 meter
+										igjen. Følg skiltene til Filtvet brygge, og du finner oss
+										nede i svingen, rett ved Filtvet fyr.
+									</div>
 								</p>
 							</div>
 						</div>
