@@ -181,7 +181,7 @@ export function Program() {
 						aria-expanded="false"
 						aria-controls="collapseFour"
 					>
-						<b>Good to Know | Điều cần biết</b>
+						<b style={{ color: "red" }}>Good to Know | Điều cần biết</b>
 					</button>
 				</h2>
 				<div
@@ -191,12 +191,50 @@ export function Program() {
 					data-bs-parent="#accordionExample"
 				>
 					<div class="accordion-body">
+						<h6 style={{ fontWeight: "bold" }}>
+							Important information about Parking
+						</h6>
+						<p style={{ color: "red" }}>
+							Do not stand along the road in the very street of Villa Malla , as
+							this may result in fines.
+						</p>
+						<p>
+							Those arriving by car can park in the following places:
+							<div>1) At the parking lot near the "joker" store. </div>
+							<div> 2) On Filtvet pier, near Villa Malla.</div>
+							<div>
+								3) At "helsetunet", which is signposted parking for Filtvet city
+								center (this is no longer in operation, so all areas can be
+								used, even if it says that the park space is designated for
+								service vehicles).
+							</div>
+						</p>
+						<h6 style={{ fontWeight: "bold" }}>
+							thông tin quan trọng về việc đậu xe
+						</h6>
+						<p style={{ color: "red" }}>
+							Đừng đứng dọc theo con đường đối diện Villa Malla, vì bạn có thể
+							bị phạt.
+						</p>
+						<p>
+							Những người đến bằng ô tô có thể đậu ở những nơi sau:{" "}
+							<div>1) Tại bãi đậu xe gần cửa hàng "joker". </div>
+							<div> 2) Trên bến tàu Filtvet, gần Villa Malla.</div>
+							<div>
+								3) Tại "helsetunet", bãi đậu xe có biển chỉ dẫn cho thành phố
+								Filtvet. Tất cả các khu vực có thể được sử dụng.
+							</div>
+						</p>
+
+						<h6 style={{ fontWeight: "bold" }}>Prepare for cold weather</h6>
 						<p>
 							{" "}
 							The wedding-cake-cutting ceremony will take place outside at Villa
 							Malla's balcony. And, as we don't want you to get sick, we advise
 							you to bring a light jacket, or a sweater to keep you warm.
 						</p>
+						<h6 style={{ fontWeight: "bold" }}>Chuẩn bị cho thời tiết lạnh</h6>
+
 						<p>
 							{" "}
 							Nghi lễ cắt bánh cưới sẽ diễn ra ở ngoài tại ban công của Villa
