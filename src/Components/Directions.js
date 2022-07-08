@@ -31,13 +31,17 @@ export function Directions() {
 						<div class="col text">
 							<div className="p-content">
 								<p>
-									Parkering på Villa Malla Det er en stor parkeringsplass til
-									venstre for butikken Joker i Filtvet sentrum som kan benyttes.
-									Det finnes også en kommunal parkeringsplass på helsetunet før
-									du svinger ned til Villa Malla, i tillegg er det flere
-									parkeringsplasser på Filtvets gamle dampskipsbrygge som ligger
-									ca 100 meter forbi nedkjørsel til Villa Malla. PS: ikke parker
-									bilen i selve Nordstrandsveien, dette kan resultere med bot.
+									<strong>Parkering på Villa</strong>
+									<div>
+										Malla Det er en stor parkeringsplass til venstre for
+										butikken Joker i Filtvet sentrum som kan benyttes. Det
+										finnes også en kommunal parkeringsplass på helsetunet før du
+										svinger ned til Villa Malla, i tillegg er det flere
+										parkeringsplasser på Filtvets gamle dampskipsbrygge som
+										ligger ca 100 meter forbi nedkjørsel til Villa Malla. PS:
+										ikke parker bilen i selve Nordstrandsveien, dette kan
+										resultere med bot.
+									</div>
 								</p>
 								<p>
 									Veibeskrivelse fra Oslo/Asker Ta av fra E18 ved Asker. Kjør
