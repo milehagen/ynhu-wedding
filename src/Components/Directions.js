@@ -89,14 +89,17 @@ export function Directions() {
 				<div class="row">
 					<div class="col">
 						<p>
-							Fra Drøbak og Østfold Kjør gjennom Oslofjordtunnelen, og ta til
-							venstre i første rundkjøring etter tunnelen. Følg deretter riksvei
-							281 i retning Storsand og Filtvet. Fra rundkjøringen tar det cirka
-							10-15 minutter å kjøre til Filtvet langs Oslofjorden. Ved skiltet
-							Filtvet er det cirka 200 meter igjen. Følg skiltene til Filtvet
-							brygge, og du finner oss nede i svingen, rett ved Filtvet fyr. Ta
-							båten til Villa Malla i sommer! Ta kontakt med Ruter for
-							ruteopplysninger: ruter.no eller ring 177.
+							<strong>Fra Drøbak og Østfold</strong>
+							<div>
+								Kjør gjennom Oslofjordtunnelen, og ta til venstre i første
+								rundkjøring etter tunnelen. Følg deretter riksvei 281 i retning
+								Storsand og Filtvet. Fra rundkjøringen tar det cirka 10-15
+								minutter å kjøre til Filtvet langs Oslofjorden. Ved skiltet
+								Filtvet er det cirka 200 meter igjen. Følg skiltene til Filtvet
+								brygge, og du finner oss nede i svingen, rett ved Filtvet fyr.
+								Ta båten til Villa Malla i sommer! Ta kontakt med Ruter for
+								ruteopplysninger: ruter.no eller ring 177.
+							</div>
 						</p>
 					</div>
 					<div class="col">
